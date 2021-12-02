@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>Hello Karthi sir, Good Morning.</h2>
+			<h3>Have a Nice Day </h3>
 		</div>	
 	</div>
 
